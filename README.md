@@ -61,8 +61,7 @@ Windows' `CapabilityAccessManager` registry keys.
 4. Keep WhatsApp Web logged in in your default browser — `pywhatkit` sends messages through it.
 
 ## 📷 Demo
-*(Add a screenshot/recording here showing the widget detecting Chrome's
-webcam access and the resulting WhatsApp alert)*
+https://github.com/user-attachments/assets/c66e5c4e-4787-4e9e-9931-ca8c7b366802
 
 ## 📈 Planned Future Enhancements
 - **IP-based remote access detection** — identify and flag access attempts
