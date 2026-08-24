@@ -1,4 +1,4 @@
-# 🛡️ Camera & Microphone Access Detection Syste
+# 🛡️ Camera & Microphone Access Detection System
 
 A lightweight Windows desktop tool that monitors camera/microphone access
 in real time and sends a WhatsApp alert when an untrusted application uses
